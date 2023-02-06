@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahamilton1
 - 👀 I’m interested in ...data analytics
-- 🌱 I’m currently learning ...R, SQL
+- 🌱 I’m currently learning ...R, SQL, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...malikhamilton12@gmail.com
 
